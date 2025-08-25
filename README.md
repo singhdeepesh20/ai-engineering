@@ -69,6 +69,13 @@ Example:
 
 *Tasks like translation, summarization, spam detection, coding, math solving can all be reframed as completion problems.
 
+6. Limitations
+
+* Completions are probabilistic predictions — not guaranteed to be correct.
+
+* A completion machine ≠ conversational AI.
+
+* Models sometimes generate irrelevant or wrong outputs until post-training (alignment, reinforcement learning, fine-tuning) makes them user-friendly.
 
 
 
