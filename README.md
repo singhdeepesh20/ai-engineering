@@ -54,4 +54,28 @@
 * Can generate text token by token → basis for ChatGPT, GPT-4, Llama, etc.
 
 
-Better suited for generative AI tasks.
+* Better suited for generative AI tasks.
+
+
+5. Generative Nature
+
+* Outputs are open-ended → infinite possible completions.
+
+* LM = “completion machine”: given a prompt, it predicts continuations.
+
+Example:
+
+* Prompt: “To be or not to be” → Completion: “, that is the question.”
+
+*Tasks like translation, summarization, spam detection, coding, math solving can all be reframed as completion problems.
+
+
+
+
+
+
+
+
+
+
+
